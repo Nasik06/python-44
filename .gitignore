@@ -1,0 +1,3 @@
+*.txt
+.env
+_pycache_
