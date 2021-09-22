@@ -5,3 +5,6 @@ print('Hello, {first} {last}'.format(
         last=last_name,
     )
 )
+first_name = 'Nasik'
+last_name = 'Luk'
+print(f'Hello, {first_name} {last_name}')
