@@ -1,5 +1,3 @@
-#only Tasks 3 - 7
-
 
 # Task 7
 
