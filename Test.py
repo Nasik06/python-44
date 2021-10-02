@@ -1,2 +1,0 @@
-x = 'abcde'
-len(x)
