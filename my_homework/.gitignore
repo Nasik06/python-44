@@ -6,3 +6,5 @@ build/
 node_modules/
 .idea/
 my_notes.txt
+*.json
+module.py
